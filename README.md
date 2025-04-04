@@ -1,4 +1,4 @@
-# PEFT Project Template with Hugging Face
+# PEFT Project with Hugging Face
 
 This project demonstrates how to use the Hugging Face `peft` library for parameter-efficient fine-tuning (PEFT) of a pre-trained model. Here, we fine-tune a GPT-2 model with LoRA (Low-Rank Adaptation) for a text classification task (e.g., sentiment analysis on the Rotten Tomatoes dataset). This approach reduces the number of trainable parameters, making fine-tuning faster and more memory-efficient.
 
